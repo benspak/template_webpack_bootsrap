@@ -4,7 +4,7 @@ import "bootstrap";
 function component() {
   const element = document.createElement("div");
 
-  element.innerHTML = "<p>Hello</p>";
+  element.innerHTML = "<h1>Webpack + Bootstrap is Working</h1>";
 
   return element;
 }
